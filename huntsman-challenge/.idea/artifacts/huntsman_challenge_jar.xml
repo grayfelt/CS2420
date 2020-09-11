@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="huntsman-challenge:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/huntsman_challenge_jar</output-path>
+    <root id="archive" name="huntsman-challenge.jar">
+      <element id="module-output" name="huntsman-challenge" />
+    </root>
+  </artifact>
+</component>
